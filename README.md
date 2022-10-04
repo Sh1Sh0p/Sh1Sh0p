@@ -7,21 +7,21 @@
 
 - 📖 I’m currently studying in [SoftUni](https://github.com/SoftUni)
 
-- 🌱 I’m currently learning **C#**, **HTML**, **CSS** and **JS**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sh1Sh0p](https://github.com/Sh1Sh0p)
 
 - 💬 You can ask me about **problems with C#.**
 
-- 📫 How to reach me **preslavvasilev1112@gmail.com** or **sh1sh0@abv.bg**
+- 📫 How to reach me **sh1sh0@abv.bg** or **preslavvasilev1112@gmail.com** .
 
 - ⚡ Fun fact **I am interested in stock trading, marketing and design.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_jstprslv_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jstprslv_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCWcYU8HumK2otf5TTFWuMXg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sh1sh0" height="30" width="40" /></a>
-<a href="https://ibb.co/jTmDmhZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sh1Sh0#7026" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sh1sh0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sh1sh0" height="30" width="40" /></a>
+<a href="https://discord.gg/Sh1Sh0#7026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sh1Sh0#7026" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,5 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh1sh0p&show_icons=true&locale=en" alt="sh1sh0p" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sh1sh0p&" alt="sh1sh0p" /></p>
-
-<a href="https://discord.gg/B52Yx2bdCP" target="_blank"><img src="https://github.com/Sh1Sh0p/Sh1Sh0p/blob/main/github-contribution-grid-snake.svg" alt="snake"></a>
