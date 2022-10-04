@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sh1sh0p&" alt="sh1sh0p" /></p>
 
-<a href="https://discord.gg/B52Yx2bdCP" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+<a href="https://discord.gg/B52Yx2bdCP" target="_blank"><img src="https://github.com/Sh1Sh0p/Sh1Sh0p/blob/main/github-contribution-grid-snake.svg" alt="snake"></a>
