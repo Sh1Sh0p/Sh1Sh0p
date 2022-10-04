@@ -13,7 +13,7 @@
 
 - 💬 You can ask me about **problems with C#.**
 
-- 📫 How to reach me **sh1sh0@abv.bg**
+- 📫 How to reach me **preslavvasilev1112@gmail.com** or **sh1sh0@abv.bg**
 
 - ⚡ Fun fact **I am interested in stock trading, marketing and design.**
 
