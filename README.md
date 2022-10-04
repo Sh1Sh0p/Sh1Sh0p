@@ -7,7 +7,7 @@
 
 - 📖 I’m currently studying in [SoftUni](https://github.com/SoftUni)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#**, **HTML**, **CSS** and **JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sh1Sh0p](https://github.com/Sh1Sh0p)
 
