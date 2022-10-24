@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sh1sh0@abv.bg** or **preslavvasilev1112@gmail.com** .
 
-- ⚡ Fun fact **I am interested in training, reading books, trading stocks, marketing, e-commerce and design.**
+- ⚡ Fun fact **I am interested in training, reading books, trading stocks, marketing, e-commerce, design and self-improvement.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
